@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "proxycurl-dev-test-grader"
+version = "0.1.0"
+description = ""
+authors = ["Steven G"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+"manage.py" = "^0.2.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

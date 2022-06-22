@@ -1,0 +1,17 @@
+[[package]]
+name = "manage.py"
+version = "0.2.10"
+description = "Human friendly CLI builder"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "fe17826eea6eaabfe28b1402608ac3e0caaf3f9f107c8abc888cd91026e98682"
+
+[metadata.files]
+"manage.py" = [
+    {file = "manage.py-0.2.10.tar.gz", hash = "sha256:3879bbe304794f36f98fd04af4c9f1ef2b8640fc76ee25572c591beef7cfb1c1"},
+]
